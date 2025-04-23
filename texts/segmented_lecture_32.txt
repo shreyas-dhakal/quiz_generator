@@ -1,0 +1,25 @@
+Hello, and welcome to this module on Ethics, Social and Environmental Impact of AI in Urban Mobility. I'm excited to have you here as we explore the ethical considerations and social implications of using AI in urban mobility solutions. So, let’s get started.
+
+The integration of AI into urban mobility also brings significant ethical, social and environmental implications, but how so? These include ethical dilemmas, algorithmic bias that could affect certain communities unfairly, unequal access to services, job losses from automation and environmental impacts.
+
+One major ethical issue is decision making in life threatening situations. For example, imagine that an autonomous vehicle faces an unavoidable collision. Should it prioritize the safety of its passengers, or try to minimize harm to pedestrians and other road users? These scenarios raise tough moral questions. Without clear ethical guidelines and regulations, public trust could be lost.
+
+Another key concern is algorithm bias. AI systems learn from data, and if this data is biased, the results may be unfair. For example, autonomous vehicles could have unequal safety outcomes for different groups because of unbalanced data or biased design. Developers might also prioritize passenger safety, especially in private vehicles, over others, putting certain communities at greater risk. These disparities could worsen social inequalities, particularly if safety standards vary by income or location.
+
+This ties directly into equity and access. Unlike public transport, which serves broad societal needs, self driving vehicles are mostly created by private companies aiming to make a profit. These companies often focus on busy city areas that already have good public transit, leaving underserved regions without access to these new solutions. This can increase spatial inequality by widening the gap between well connected and neglected areas. Additionally, the growth of for hire autonomous vehicles in urban centers may compete with public transit, potentially lowering its quality.
+
+This would disproportionately impact people who rely on public transport, especially those from lower income groups.
+
+Another issue is job loss due to automation. What happens to the people whose jobs are automated away? The adoption of autonomous vehicles threatens employment in sectors such as trucking, taxi services, and public transportation. While eliminating professional drivers and mechanics could save companies money, it may also displace workers with few chances for reemployment. These workers might have to take low skilled jobs, increasing competition in the labor market and lowering wages.
+
+As a result, this could deepen income inequality and social disparities
+
+AI also has a significant environmental impact. Data centers and AI model training require a lot of energy. This leads to high carbon emissions when the energy comes from nonrenewable sources. In the United States, it is projected that by 2030, emissions from AI driven data centers could cause about 1,300 premature deaths and 600,000 asthma cases each year, with public health costs exceeding 20 billion dollars. These impacts could be as large as, or even bigger than, those from major industries or states like California.
+
+Additionally, AI systems use large amounts of water to cool data centers and generate electricity. In 2023, Google's data centers used over 29 billion liters of water, much of it potable. In the United States, water use for AI is expected to double or even quadruple by 2028. Globally, by 2027, AI systems may withdraw between 4.2 and 6.6 billion cubic meters of water annually, but what does that really mean?
+
+To put it into perspective, that’s more water than the entire yearly consumption of countries like Denmark, or nearly half of the United Kingdom.
+
+In conclusion, the integration of AI in mobility introduces a range of ethical and social challenges that require careful consideration. In this lesson, we have explored several key issues. These include equity in access to AI powered mobility services, the implications of algorithmic bias, consequences of job displacement, and the environmental and health effects of AI’s resource consumption.
+
+I hope this session has provided you with valuable insights into the ethical considerations and social impacts of AI in urban mobility. Thanks for joining me, and I look forward to seeing you in the next lesson.

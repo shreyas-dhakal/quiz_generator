@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_29",
+  "title": "Challenges and Impacts of AI in Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What are the three key areas of challenges in AI-driven mobility discussed in the module?",
+      "options": [
+        "Technical, regulatory, and ethical",
+        "Financial, operational, and technical",
+        "Legal, ethical, and financial",
+        "Operational, regulatory, and social"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The module explores challenges in AI-driven mobility across technical, regulatory, and ethical areas."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which technical issue is NOT mentioned as a challenge in AI for mobility?",
+      "options": [
+        "Data quality",
+        "Cybersecurity risks",
+        "Algorithmic transparency",
+        "High cost of investing in AI"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Algorithmic transparency is not mentioned; the focus is on data quality, cybersecurity risks, and investment costs."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is a regulatory challenge discussed in the module?",
+      "options": [
+        "Ensuring equitable access to technology",
+        "Managing data privacy",
+        "Reducing energy consumption",
+        "Improving computing power"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Data privacy is highlighted as a regulatory challenge in AI-driven mobility."
+    }
+  ]
+}

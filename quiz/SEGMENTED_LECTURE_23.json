@@ -1,0 +1,54 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_23",
+  "title": "Connected Autonomous Vehicles in Smart Cities",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary goal of Connected Autonomous Vehicles (CAVs) in smart cities?",
+      "options": [
+        "To enhance human driving skills",
+        "To integrate with existing public transport systems",
+        "To reduce road accidents and improve efficiency",
+        "To replace all human-driven vehicles"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "CAVs aim to reduce road accidents by eliminating human error and improve efficiency through optimized traffic flow."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which technology is NOT used by CAVs to achieve full autonomy?",
+      "options": [
+        "LIDAR for high precision mapping",
+        "RADAR for detecting object speed and distance",
+        "Ultrasonic sensors for close range obstacle detection",
+        "Infrared sensors for night vision"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "The transcript mentions LIDAR, RADAR, and ultrasonic sensors, but not infrared sensors for night vision."
+    },
+    {
+      "question_id": "Q3",
+      "question": "How do CAVs contribute to the European Union's environmental goals?",
+      "options": [
+        "By increasing the number of vehicles on the road",
+        "By reducing emissions through electrification",
+        "By promoting the use of fossil fuels",
+        "By encouraging longer travel distances"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "CAVs contribute to environmental goals by promoting automation and electrification, which help reduce emissions."
+    },
+    {
+      "question_id": "Q4",
+      "question": "What is a key feature of the EZ10 autonomous shuttle?",
+      "options": [
+        "It requires special infrastructure to operate",
+        "It can only operate on fixed routes",
+        "It includes smart sensors to detect obstacles",
+        "It is designed for private ownership"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The EZ10 is equipped with smart sensors to detect obstacles, enhancing its safety and usability in mixed traffic environments."
+    }
+  ]
+}

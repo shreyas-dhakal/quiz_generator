@@ -1,0 +1,54 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_21",
+  "title": "Smart Parking Management Systems Overview",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What percentage of urban traffic is caused by drivers searching for parking spots?",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Studies show that around 30% of urban traffic is simply vehicles circling around, looking for a place to park."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do Smart Parking Management Systems contribute to environmental sustainability?",
+      "options": [
+        "By increasing parking fees",
+        "By reducing traffic congestion and emissions",
+        "By building more parking lots",
+        "By providing free parking spaces"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Smart Parking Management Systems help reduce congestion and greenhouse gas emissions, supporting a more sustainable urban environment."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which technology is NOT mentioned as part of Smart Parking Management Systems?",
+      "options": [
+        "IoT",
+        "Blockchain",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The transcript mentions IoT, computer vision, and deep learning, but not blockchain."
+    },
+    {
+      "question_id": "Q4",
+      "question": "What is the primary function of Parkeagle's StreetEagle product?",
+      "options": [
+        "To provide free parking",
+        "To collect real-time traffic data",
+        "To build new parking lots",
+        "To offer valet parking services"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "StreetEagle utilizes compact wireless sensors to collect real-time data on traffic metrics, including vehicle counting and parking occupancy detection."
+    }
+  ]
+}

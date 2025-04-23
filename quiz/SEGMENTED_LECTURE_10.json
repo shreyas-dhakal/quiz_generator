@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_10",
+  "title": "Key Concepts in Urban Mobility and Planning",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary goal of Sustainable Urban Mobility Plans (SUMPs)?",
+      "options": [
+        "To create visually appealing urban designs",
+        "To improve quality of life for everyone",
+        "To increase the number of private cars",
+        "To expand city boundaries"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "SUMPs aim to improve quality of life by rethinking how people and goods move around, focusing on real-world mobility needs."
+    },
+    {
+      "question_id": "Q2",
+      "question": "What is a major challenge associated with urban sprawl?",
+      "options": [
+        "Increased use of public transport",
+        "Higher density housing",
+        "More traffic jams and greenhouse gas emissions",
+        "Reduced reliance on private cars"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Urban sprawl leads to more traffic jams and a spike in greenhouse gas emissions due to low-density housing and reliance on private cars."
+    },
+    {
+      "question_id": "Q3",
+      "question": "How does transit-oriented development (TOD) support urban planning?",
+      "options": [
+        "By encouraging low-density living",
+        "By organizing growth around public transport hubs",
+        "By expanding city boundaries",
+        "By reducing the use of public transport"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "TOD organizes urban growth around public transport hubs, promoting medium to high-density living and mixed land use."
+    }
+  ]
+}

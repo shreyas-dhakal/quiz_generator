@@ -1,0 +1,33 @@
+Hello, and welcome to this module on AI and Machine Learning in Cycling Safety Applications. I'm excited to have you here as we explore how AI and machine learning are transforming cycling safety, the challenges they address, and real world implementations.
+
+Cycling is a popular mode of transportation and recreation, but it comes with inherent risks, especially in environments shared with motorized vehicles. In response, integrating AI and machine learning into cycling safety applications has become a promising way to improve rider monitoring and help prevent accidents.
+
+So, what issues could it aim to tackle?
+
+Cyclist safety is a major concern. In the European Union, cyclists account for 9% of all road fatalities. Unlike other road users, whose fatality rates have dropped by up to 40% over the past decade, cyclist fatalities have remained constant. That’s a big problem. As the European Commissioner for Transport Adina Vălean put it, safety is a prerequisite for encouraging cycling. If we want more people to embrace cycling, we need to make it safer.
+
+At the same time, cycling has major health benefits. Studies show that people who cycle regularly have a significantly lower risk of developing heart disease. Even short cycling trips can improve cardiovascular health. The challenge, then, is to maximize these benefits while minimizing the risks. And that’s exactly what AI and machine learning can help us do.
+
+So, how do these technologies make cycling safer?
+
+AI and machine learning, combined with IoT devices, are changing the game. These systems allow real time data exchange, remote monitoring, and automated responses to potential hazards. Broadly speaking, safety applications fall into two categories: rider monitoring systems and accident prevention systems.
+
+Rider monitoring systems focus on tracking the cyclist’s behavior, physical condition, and surroundings. For instance, wearable devices can monitor a rider’s stress and fatigue levels, alerting them when they need to take a break. Smart helmets with built in sensors can detect falls and send emergency alerts via GPS. Some systems even predict a cyclist’s trajectory to help avoid collisions.
+
+Accident prevention systems take a more proactive approach. AI powered cameras and radar based sensors can detect nearby vehicles, pedestrians, and obstacles, estimating their speed and distance in real time. Predictive models can anticipate a cyclist’s next move, such as making a turn, and alert nearby road users. These systems can also analyze cycling behavior, flagging sudden stops or swerves that may indicate a safety risk. Even near miss incidents are logged to create safety maps that help improve urban planning and infrastructure.
+
+Now, let’s take a look at some real world applications.
+
+One interesting initiative is the Bacău: Active Mobility for Seniors project, supported by EIT Urban Mobility. In Bacău, Romania, about 35% of the population is elderly, and mobility is a challenge. To help, the city has partnered with Hilo EV Ltd to develop an Intelligent Road Illumination System. This system provides 360 degree illumination, hazard warnings, and real time danger detection, making cycling safer for seniors. The project was set to launch in 2024, with e bicycles equipped with IRIS technology.
+
+Another initiative comes from Lane Patrol. An AI driven tool designed to improve cycling infrastructure safety. Traditionally, assessing bike lanes required manual data collection, which was time consuming and prone to errors. Lane Patrol automates this process using computer vision and deep learning. It analyzes images of cycling infrastructure to classify lane types, detect hazards like tram rails and curbs, and even track the movement of cyclists and pedestrians.
+
+Now, let’s talk about CycleAI, a Portuguese startup focused on micromobility safety. Their web based Route Planner helps cyclists choose the safest routes based on personal preferences, whether they prioritize safety, balance, or speed. This tool is powered by Bikeable, an AI model that generates city wide safety maps in just a week. CycleAI has already developed a safety map for Lisbon and is working on one for Prague.
+
+There’s also the RideSafeUM project which is designed to reduce micromobility accidents by providing real time information to users. It features a mobile app powered by artificial intelligence, which integrates computer vision software, a camera, GPS, and accelerometers. This app provides real time alerts to help scooter riders, cyclists, and skateboarders avoid collisions with pedestrians and vehicles. In the event of an accident, the system can send alerts to emergency services using data recorded by a built in black box.
+
+The project also includes a city dashboard that allows local authorities to monitor safety and make more informed policy decisions. Pilot deployments are currently underway in Barcelona, Rome, and Thessaloniki
+
+In conclusion, AI and machine learning are transforming cycling safety by enabling smarter, real time solutions that protect cyclists and enhance urban mobility. Throughout this module, we explored how these technologies improve rider monitoring, accident prevention, and infrastructure assessment, as well as their integration into real world safety applications.
+
+I hope this session has provided valuable insights into the future of cycling safety and how AI driven innovations are making micromobility safer and more accessible. Thanks for joining me, and I’ll see you in the next lesson.

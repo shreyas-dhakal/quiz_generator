@@ -1,0 +1,54 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_06",
+  "title": "Digital Technologies Transforming Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What role does the Internet of Things (IoT) play in mobility?",
+      "options": [
+        "It allows vehicles and infrastructure to communicate through embedded sensors.",
+        "It provides ultra fast wireless connectivity for data exchange.",
+        "It stores and processes data on local hardware.",
+        "It analyzes large datasets to predict traffic patterns."
+      ],
+      "correct_answer_index": 0,
+      "explanation": "IoT enables communication between vehicles, traffic lights, roads, and bus stops through embedded sensors, allowing for real-time data flow and improved traffic management."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How does big data contribute to smarter mobility decisions?",
+      "options": [
+        "By providing ultra low latency communication.",
+        "By analyzing massive amounts of data to generate actionable insights.",
+        "By storing data on local servers for quick access.",
+        "By enabling real-time video streaming from vehicles."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Big data analyzes information from IoT devices, smartphones, and connected vehicles to help cities make informed decisions, such as optimizing transport schedules and reducing emissions."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What advantage does 5G technology offer for mobility?",
+      "options": [
+        "It allows for seamless updates and flexible service management.",
+        "It provides a nervous system for cities to monitor streets.",
+        "It enables ultra fast speed and low latency for real-time data exchange.",
+        "It turns raw information into actionable insights."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "5G offers ultra fast speed and low latency, essential for real-time data exchange in applications like vehicle tracking and emergency response coordination."
+    },
+    {
+      "question_id": "Q4",
+      "question": "Why is cloud computing important for modern mobility systems?",
+      "options": [
+        "It allows for local data storage and processing.",
+        "It enables real-time video streaming from moving vehicles.",
+        "It processes and manages data efficiently on remote servers.",
+        "It provides ultra fast wireless connectivity."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Cloud computing processes and manages data on remote servers, freeing up local resources and allowing for efficient data handling and real-time decision making."
+    }
+  ]
+}

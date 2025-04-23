@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_26",
+  "title": "AI and Machine Learning in Urban Air Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is one of the main goals of Urban Air Mobility (UAM)?",
+      "options": [
+        "To increase fossil fuel usage",
+        "To reduce emissions with electric solutions",
+        "To replace all ground vehicles",
+        "To eliminate the need for public transport"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "UAM aims to reduce emissions by offering fully electric solutions for short trips, providing an alternative to fossil fuel-based vehicles."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How does AI enhance situational awareness in Urban Air Mobility?",
+      "options": [
+        "By increasing fuel efficiency",
+        "By enabling aircraft to recognize and respond to nearby flying objects",
+        "By improving passenger comfort",
+        "By reducing the cost of air travel"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI enhances situational awareness by enabling aircraft to recognize and respond to nearby flying objects, such as birds or other drones."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which project is focused on using UAM for emergency medical services?",
+      "options": [
+        "Volocopter",
+        "AMU LED",
+        "AiRMOUR",
+        "Medifly"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The AiRMOUR project is a European research initiative focused on using UAM for emergency medical services, aiming to make aerial mobility safer and more accessible."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_07",
+  "title": "Overview of Urban Mobility Concepts",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What was the primary focus of the lesson 'The Concept of Urban Mobility'?",
+      "options": [
+        "Exploring transportation options and influencing factors in cities",
+        "Discussing the European Union's climate targets",
+        "Analyzing technologies like IoT and 5G",
+        "Evaluating success indicators for urban mobility plans"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The lesson focused on exploring transportation options in cities and how factors like infrastructure and policies influence urban mobility."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which technologies were discussed in the lesson 'Technologies Shaping Mobility'?",
+      "options": [
+        "IoT, big data, 5G, and cloud computing",
+        "Electric vehicles and renewable energy",
+        "Public transportation systems and bike-sharing",
+        "Artificial intelligence and machine learning"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The lesson covered technologies such as IoT, big data, 5G, and cloud computing that are reshaping urban mobility."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the significance of the transportation sector in the context of climate change?",
+      "options": [
+        "It is a major contributor to greenhouse gas emissions",
+        "It has minimal impact on climate change",
+        "It solely relies on fossil fuels",
+        "It is unrelated to sustainability goals"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The transportation sector significantly contributes to greenhouse gas emissions, making it crucial in addressing climate change."
+    }
+  ]
+}

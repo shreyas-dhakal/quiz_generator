@@ -1,0 +1,29 @@
+Welcome to the module Key Concepts in Urban Mobility and Planning : Active Mobility, Micromobility,  First Last Mile Problems. In this module, we'll delve into key concepts including active mobility, micromobility solutions, and the challenges associated with first- and last mile connectivity. So let’s get started.
+
+Let’s start by focusing on Active Mobility.
+
+Walking and cycling as part of daily travel are essential to building a more sustainable and livable city. They offer huge benefits, not just for the environment, but also for public health and reducing traffic congestion. Walking and cycling can replace many inefficient short car trips, which saves money and reduces pollution. Still, in many places, transport planning is stuck in old habits. Large scale projects focused on cars often take priority, while the broader social and environmental benefits of active travel are underestimated or ignored.
+
+The way our cities are built has a huge impact on how easy and appealing it is to walk or cycle. When neighborhoods are designed with a mix of housing, shops, and services, it becomes natural for people to move around on foot or by bike. Well connected streets, thoughtful urban design, and nearby destinations all help make active travel part of daily life.
+
+Let’s take a real example. In Coimbra, Portugal, if the city were to fully tap into its cycling potential, active travel could increase by more than 150 percent. And the impact on energy use would be impressive, with transport energy consumption potentially dropping by 22 percent. That’s a powerful case for investing in active mobility.
+
+Now let’s turn to something that’s reshaping how people move around cities today: Micromobility.
+
+Micromobility is all about small, lightweight vehicles used for short trips, usually under 10 kilometers and at speeds below 25 kilometers per hour. This includes things like bicycles, electric scooters, hoverboards, and similar personal transport options. Some people own these vehicles, while others access them through shared mobility services.
+
+What makes micromobility so appealing is how practical and flexible it is. These vehicles are easy to use, quick to park, and simple to maintain. They are especially useful in dense urban areas, helping people move efficiently without needing a car. They also help fill in the gaps in public transport, making it easier to reach transit stations or explore parts of the city that are harder to access otherwise.
+
+Now let’s talk about one of the biggest challenges in transport: the last mile problem.
+
+In the context of connectivity, the last mile refers to the final stretch of a trip, typically from a public transport stop to the traveler’s actual destination. This small segment can make or break a journey. Many people, especially those with mobility needs or living in lower density areas, struggle to complete this part of the trip. Traditional public transport follows fixed routes with stops at key locations, but if someone’s home or destination is far from those stops, the entire system becomes less convenient.
+
+Micromobility options like shared bikes or scooters can help bridge this gap, making the public transport system more accessible and efficient.
+
+Now let’s switch over to the world of delivery. The term last mile delivery refers to the final step in getting a product from a distribution center to the customer’s doorstep. This is a critical stage in the logistics process but often comes with major challenges. It can be costly, complex, and time sensitive, especially in busy urban areas where traffic and parking can slow things down.
+
+There’s also the concept of the first mile, which is just as important. In logistics, the first mile is the initial step, when goods are transported from the seller’s location to a warehouse or distribution center. In passenger transport, it’s the beginning of the journey, when someone travels from home to the nearest bus or train station.
+
+In conclusion, understanding how active mobility, micromobility, and last mile connectivity all fit into the bigger picture of urban transport is key to building more accessible, sustainable, and people centered cities.
+
+I hope this session has given you useful insights into how these different pieces come together to shape the future of urban mobility. Thanks for being here, and I look forward to seeing you in the next lesson.

@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_15",
+  "title": "Overview of Urban Mobility Concepts",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What was the focus of the first lesson in the module?",
+      "options": [
+        "Core urban planning ideas",
+        "Active mobility and micro mobility",
+        "Trends like Mobility as a Service",
+        "Key indicators for mobility performance"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The first lesson introduced core urban planning ideas such as SUMPs, urban sprawl, densification, and infill development."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which framework was emphasized in the discussion on measuring mobility performance?",
+      "options": [
+        "SUMI framework",
+        "LEED framework",
+        "ISO 9001 framework",
+        "BREEAM framework"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The SUMI framework was highlighted as a key set of indicators used to assess urban mobility systems."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What types of data sources were explored for urban mobility analysis?",
+      "options": [
+        "Mobile network data, transport data, and sensor data",
+        "Financial data, weather data, and social media data",
+        "Healthcare data, educational data, and retail data",
+        "Agricultural data, geological data, and maritime data"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The module explored critical data sources for mobility analysis, including mobile network data, transport data, and sensor data."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Hello, and welcome to this module on Regulatory and Privacy Issues in AI Driven Mobility. I'm excited to have you here as we explore the regulatory and privacy issues related to AI in mobility applications. So, let’s get started.
+
+AI brings great potential to urban mobility. But it also raises concerns about privacy and regulations. So what concerns exist in that scope? These include following data protection laws, deciding who is responsible when systems fail, and keeping user information safe.
+
+Some of these challenges, like data privacy, are common in many applications. Others, such as liability in autonomous vehicle accidents or securing communication networks, present legal hurdles that require tailored solutions. Let’s take a closer look.
+
+First up: data privacy and security. AI systems in mobility rely on collecting, processing, and sharing data. Regulations like the European Union’s General Data Protection Regulation aim to protect personal data, but gaps and grey areas still remain. For example, autonomous vehicles gather a lot of data through their sensors. This data includes location, schedules, driving patterns, and even personal preferences. Moreover, the data may also involve other road uses. So, what exactly makes this data collection problematic?
+
+Storing, transmitting, or using this data for machine learning exposes it to unauthorized access. Cyberattacks that exploit these vulnerabilities can do more than just invade privacy. They can disrupt how vehicles operate and put the lives of users in danger.
+
+Data from multiple vehicles in a city can also expose patterns and details about the urban environment. These networks can map entire cities, exposing sensitive infrastructure or enabling surveillance on a larger scale.
+
+Smart traffic systems face similar risks. Many still operate without secure encryption, leaving them open to cyberattacks. This could let malicious actors manipulate traffic patterns or track vehicle movements, with consequences for both privacy and public safety.
+
+Another major issue is liability and accountability. Take autonomous vehicles, for example. In traditional transportation, determining fault in an accident is relatively easy. Responsibility usually falls on the driver or, in some cases, the vehicle manufacturer.
+
+When an accident happens involving an autonomous system, who is responsible? Is it the AI software developer, the vehicle manufacturer, or the communication network operator? These systems are complex. It’s hard to say who’s at fault, and current laws don’t fully cover this.
+
+Multiple factors may contribute to an incident. These include sensor failures, AI decision errors, or miscommunication between systems. This uncertainty creates significant legal and ethical concerns, as well as challenges for insurance, public policy, and user trust. As technology keeps evolving, we need clear and consistent laws. These laws should define who is responsible, make sure people are held accountable, and protect everyone’s rights.
+
+In conclusion, the rise of AI driven mobility brings a lot of opportunities, but it also introduces significant regulatory and privacy challenges. In this session, we examined two key issues. First, the importance of data privacy and security in AI powered transportation systems.  Second, the problem of liability in autonomous vehicle incidents.
+
+I hope this session has provided you with valuable insights into the Regulatory and Privacy Issues regarding AI driven mobility. Thanks for joining me, and I’ll see you in the next lesson.

@@ -1,0 +1,11 @@
+Throughout this module, we’ve done a general overview that introduced the concept of urban mobility, went over sustainability goals and the role of transportation, and the technologies that are powering the future of urban mobility.
+
+We started with the lesson The Concept of  Urban Mobility. Here, we kicked things off by exploring what urban mobility really means today. We looked at the wide range of transportation options in modern cities and how factors like infrastructure, policies, people's behaviors, and access all play a role in shaping how we get around urban spaces.
+
+Next, we tackled the urgent issue of climate change in the lesson Climate Goals and the Role of Transportation. We went over the transportation sector’s significant contribution to greenhouse gas emissions. Examined the European Union’s ambitious climate targets and discussed how the shift toward cleaner, more efficient mobility systems is essential for creating a sustainable urban future.
+
+Finally, we concluded the module with the lesson Technologies  Shaping Mobility. Here we dived into the technologies reshaping mobility, such as IoT, big data, 5G, and cloud computing and how they enable smarter, more connected, and more responsive transportation networks in cities.
+
+By going over these topics, you have gained insights into the current situation, which will provide a context for assessing mobility solutions in the upcoming modules. In the next module Fundamentals of Urban Mobility we'll explore the fundamentals of urban mobility and planning. We’ll focus on the key concepts that shape how cities design and manage transportation, explore the indicators used to evaluate the success of urban mobility plans and the crucial data sources that assist in analyzing and improving them.
+
+See you in the next lesson.

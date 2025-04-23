@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_31",
+  "title": "Regulatory and Privacy Issues in AI Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is a major concern related to AI in mobility applications?",
+      "options": [
+        "Improving urban infrastructure",
+        "Data protection and privacy",
+        "Increasing vehicle speed",
+        "Reducing fuel consumption"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI in mobility raises concerns about privacy and regulations, particularly regarding data protection laws and user information safety."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which regulation aims to protect personal data in AI systems?",
+      "options": [
+        "The European Union’s General Data Protection Regulation",
+        "The United States Privacy Act",
+        "The International Cybersecurity Protocol",
+        "The Global Data Exchange Agreement"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The European Union’s General Data Protection Regulation (GDPR) is mentioned as a regulation that aims to protect personal data in AI systems."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What challenge is associated with liability in autonomous vehicle incidents?",
+      "options": [
+        "Determining the vehicle's speed",
+        "Identifying the responsible party",
+        "Calculating the accident's cost",
+        "Assessing the vehicle's fuel efficiency"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Determining who is responsible in autonomous vehicle incidents is challenging due to the complexity of the systems and the lack of clear legal guidelines."
+    }
+  ]
+}

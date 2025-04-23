@@ -1,0 +1,11 @@
+Hello and welcome to the first module of this course, 'The Current Landscape of Urban Mobility'. We're excited to have you on this journey.
+
+In this module, we’ll begin with a general overview of current trends in urban mobility, introducing and exploring the core concept of mobility, examining climate goals and the role of transportation in achieving them, and looking at the key technologies driving modern urban mobility.
+
+We’ll kick things off with a lesson on ‘The Concept of Mobility,’ where we’ll define what urban mobility really means today, examine the factors that influence it, and explore the diverse transportation options that modern cities offer.
+
+Next, in ‘Climate Goals and the Role of Transportation,’ we’ll tackle the urgent issue of greenhouse gas emissions. We’ll look at the European Union’s bold climate targets and dive into the crucial role transportation has in building a more sustainable future.
+
+Finally, in ‘Technologies Shaping Urban Mobility,’ we’ll explore how innovations like IoT, big data, 5G, and cloud computing are revolutionizing the way we move and interact with urban spaces.
+
+So, let’s get started.

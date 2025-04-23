@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_11",
+  "title": "Key Concepts in Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What are the benefits of active mobility?",
+      "options": [
+        "Increased car usage and traffic congestion",
+        "Reduced pollution and improved public health",
+        "Higher costs and environmental damage",
+        "Decreased accessibility to public transport"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Active mobility, such as walking and cycling, reduces pollution, improves public health, and decreases traffic congestion."
+    },
+    {
+      "question_id": "Q2",
+      "question": "What is a characteristic of micromobility vehicles?",
+      "options": [
+        "They are typically used for long-distance travel",
+        "They are large and heavy vehicles",
+        "They are small, lightweight, and used for short trips",
+        "They require extensive parking spaces"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Micromobility vehicles are small, lightweight, and used for short trips, making them practical and flexible for urban travel."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the 'last mile problem' in urban transport?",
+      "options": [
+        "The difficulty of starting a journey from home",
+        "The challenge of reaching the final destination from a transit stop",
+        "The complexity of planning long-distance travel",
+        "The inefficiency of using cars for short trips"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The 'last mile problem' refers to the challenge of completing the final segment of a trip from a public transport stop to the traveler's destination."
+    }
+  ]
+}

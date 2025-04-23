@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_04",
+  "title": "Understanding Urban Mobility Concepts",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary focus of urban mobility?",
+      "options": [
+        "Expanding infrastructure to meet demand",
+        "Providing access to city experiences",
+        "Increasing the number of transportation options",
+        "Reducing travel time for commuters"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Urban mobility is about access to education, healthcare, jobs, culture, and experiences that city life offers."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which transportation option is designed for flexibility and personal convenience?",
+      "options": [
+        "Metro lines",
+        "Buses",
+        "Bike sharing",
+        "Trains"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Bike sharing, scooters, and on-demand rides offer flexibility and personal convenience, especially for shorter trips."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Why is it not enough to simply expand infrastructure in growing cities?",
+      "options": [
+        "It is too costly",
+        "It does not address long-term needs",
+        "It increases congestion",
+        "It limits transportation options"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Expanding infrastructure might offer temporary relief, but true long-term progress requires innovative, integrated approaches."
+    }
+  ]
+}

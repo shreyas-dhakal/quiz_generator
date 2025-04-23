@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_20",
+  "title": "Smart Traffic Light Systems Overview",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is a primary disadvantage of traditional traffic control methods?",
+      "options": [
+        "They are too expensive to implement.",
+        "They operate on pre-programmed schedules, failing to adapt to real-time conditions.",
+        "They require constant manual adjustments.",
+        "They are not compatible with modern vehicles."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Traditional traffic control methods use fixed time signals that do not adapt to real-time traffic conditions, leading to inefficiencies."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do smart traffic light systems prioritize emergency vehicles?",
+      "options": [
+        "By using AI to predict emergency routes.",
+        "By automatically turning traffic lights green when an emergency vehicle approaches.",
+        "By manually controlling traffic lights from a central center.",
+        "By using drones to monitor traffic flow."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Smart traffic systems use RFID tags to detect emergency vehicles and automatically turn traffic lights green to allow them to pass without delay."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is one of the goals of Bucharest's smart traffic light project?",
+      "options": [
+        "To increase the number of traffic lights in the city.",
+        "To improve traffic flow and reduce emissions.",
+        "To eliminate all pedestrian crossings.",
+        "To replace all traditional vehicles with electric ones."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Bucharest's project aims to improve traffic flow, boost safety, and reduce emissions through modernizing intersections and installing smart technologies."
+    }
+  ]
+}

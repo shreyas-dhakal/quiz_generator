@@ -1,0 +1,19 @@
+Throughout this module, we’ve built a solid foundation in concepts regarding urban mobility and planning. We’ve explored how we evaluate mobility performance and also the key data sources that support urban mobility analysis.
+
+We kicked off with three lessons on Key Concepts in Urban Mobility and Planning
+
+In the first, we introduced core urban planning ideas such as SUMPs, urban sprawl, densification, and infill development
+
+In the second lesson, we focused on active mobility and micro mobility, highlighting why walking, cycling, and first and last mile solutions are so important in today’s cities.
+
+Then, in our third lesson, we looked to the future and explored trends like Mobility as a Service, urban digital twins, and smart cities. These trends are reshaping how we move and live.
+
+Next, in Measuring Mobility Performance: Key Indicators, we delved into the main indicators used to assess urban mobility systems, with a special focus on the SUMI framework.
+
+Lastly, in Data Sources in Urban Mobility, we explored the sources for critical types of data used in mobility analysis, such as mobile network data, transport data, and sensor data.
+
+With all these insights, you are now more equipped to think critically about urban mobility challenges and solutions. And the journey does not stop here.
+
+In the next module, AI and ML Use Cases in Urban Mobility we will dive into real world applications. We will explore how artificial intelligence and machine learning are tackling mobility problems and transforming cities across the European Union.
+
+Thank you for joining us, and we look forward to seeing you in the next module.

@@ -1,0 +1,35 @@
+Welcome to the module Measuring Mobility Performance: Key Indicators. In this module, we’re going to explore how cities can track their progress toward more sustainable and efficient transport systems. We'll look at the role of monitoring and evaluation in Sustainable Urban Mobility Plans, and how the SUMI framework, developed by the European Commission, helps cities measure what really matters. So let’s get started.
+
+Let’s talk about something that plays a crucial role in the success of any Sustainable Urban Mobility Plan and that’s monitoring and evaluation.
+
+Why is this so important? Well, think of it like checking the pulse of your mobility strategy. It’s the only way to know if your city is actually moving in the right direction. If things aren’t going as planned, regular monitoring helps decision makers step in early and make necessary adjustments, before small issues become major roadblocks.
+
+A great example of this effort is the SUMI framework, developed by the European Commission.
+
+SUMI stands for Sustainable Urban Mobility Indicators, and it offers cities a common language for measuring the performance and sustainability of their transport systems. It’s a structured set of indicators that touches on everything from accessibility and environmental impact to safety, efficiency, and even user satisfaction.
+
+Let’s dive into some of these indicators, starting with the affordability of public transport. This one looks at how much of their income the lowest earning 25% of the population need to spend on a monthly public transport pass. It’s a critical measure of social equity.
+
+Next, we have accessibility for mobility impaired groups. This goes beyond just ramps and elevators, it’s about making sure that everyone, including older adults, people with disabilities, pregnant women, and others with physical limitations, can move around the city comfortably and independently.
+
+On the environmental side, we have indicators like air pollutant emissions, including fine particulate matter such as PM2.5, and greenhouse gas emissions, which are measured from a well to wheels perspective across all transport modes. SUMI also tracks noise hindrance, which looks at how transport related noise impacts residents’ quality of life.
+
+Safety, of course, is another core concern. Indicators like road deaths and safety for active modes of transport,that’s walking and cycling,help cities monitor traffic related fatalities and improve safety where it’s most needed.
+
+Other indicators examine how easy it is to get around. For instance, access to mobility services tells us what share of the population has convenient access to public transport. Then there’s congestion and delays, which compare peak hour travel times to optimal conditions, highlighting where inefficiencies lie.
+
+Energy efficiency is another key metric, looking at how much energy is used per passenger- or tonne kilometre. And when we talk about encouraging healthier, greener habits, the opportunity for active mobility measures the quality and availability of walking and cycling infrastructure.
+
+Multimodal integration is also assessed, this means checking how easy it is for people to switch between transport modes, like going from a bus to a bike share station or from a train to a tram.
+
+And of course, we can’t forget about the user experience. Satisfaction with public transport gives us insight into how people actually feel about the services they rely on daily.
+
+Now, beyond these core indicators, the SUMI framework also includes non core indicators that give cities even more insights. These look at factors like how people feel about public spaces, land use diversity, average commuting times, how much land is taken up by transport infrastructure, and people’s sense of safety while using urban transport.
+
+And one final piece of the puzzle,the modal split indicator. This one breaks down how different transport modes are used across the city, both for passengers and freight. It includes everything from passenger kilometres to the number of trips and freight volumes in tonnes per kilometre.
+
+Another initiative within the European Union is the Trendline Project, a collaborative effort involving 25 Member States and four observer countries. It builds on the foundations laid by previous work to improve road safety through the collection, analysis, and use of KPIs.
+
+In conclusion, understanding how monitoring and evaluation,through frameworks like SUMI,can guide cities toward smarter, safer, and more sustainable urban mobility is key to the success of any SUMP. Thank you for joining me, and I look forward to exploring more exciting topics with you in the next lesson.
+
+I hope this session has given you a solid understanding of how mobility performance can be measured and why it matters. Thanks for joining me, and I’ll see you in the next lesson.

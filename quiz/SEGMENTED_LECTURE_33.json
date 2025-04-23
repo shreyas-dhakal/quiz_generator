@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_33",
+  "title": "Challenges in AI Driven Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What are some technical challenges in AI for mobility discussed in the module?",
+      "options": [
+        "Poor data quality and cybersecurity risks",
+        "Lack of skilled AI professionals",
+        "Inadequate government funding",
+        "Limited consumer interest in AI technologies"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The module highlighted poor data quality and cybersecurity risks as key technical challenges in AI for mobility."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which issue is associated with regulatory and privacy concerns in AI driven mobility?",
+      "options": [
+        "High cost of AI implementation",
+        "Protecting personal data",
+        "Energy consumption of AI systems",
+        "Bias in algorithms"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The module discussed the importance of protecting personal data as a regulatory and privacy issue in AI driven mobility."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What ethical concern is related to AI in urban mobility?",
+      "options": [
+        "High cost of AI systems",
+        "Fair access to technology",
+        "Technical reliability of AI",
+        "Energy efficiency of AI solutions"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The module explored fair access to technology as an ethical concern in AI's impact on urban mobility."
+    }
+  ]
+}

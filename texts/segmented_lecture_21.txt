@@ -1,0 +1,33 @@
+Hello, and welcome to this module on Smart Parking Management Systems.. I'm excited to have you here as we explore what Smart Parking Management Systems are, the problems they aim to solve, how AI and machine learning support them and real world project deployments in the European Union. So, let’s get started.
+
+Cities are growing fast, and there are more vehicles on the road than ever. As a result, parking has become a major urban challenge. Traditional parking systems often fail to efficiently make use of available spaces, leading to frustration for drivers and traffic congestion. But what if we could use technology to revolutionize the way we park? That’s where Smart Parking Management Systems come in. By leveraging data driven solutions, these systems optimize parking space usage, improve user experiences, and contribute to the overall efficiency of urban transportation.
+
+Let’s start by exploring the key problems that Smart Parking Management Systems aim to solve.
+
+One issue is traffic congestion caused by drivers searching for parking spots. Studies show that around 30% of urban traffic is simply vehicles circling around, looking for a place to park. On average, drivers waste about 17 hours per year just searching for parking, but in some places, the numbers are much higher. A study by INRIX found that drivers in Germany spend an average of 41 hours annually looking for parking.
+
+In the UK, this figure rose to 44 hours per year. That’s nearly two full days wasted behind the wheel just trying to find a spot.
+
+This wasted time isn’t just an inconvenience, it also has environmental consequences. The fuel burned during these unnecessary trips contributes to higher emissions. This represents a negative contribution regarding European climate targets. By making parking more efficient, it helps cities reduce both congestion and greenhouse gas emissions, supporting a more sustainable urban environment.
+
+Now, let’s talk about how artificial intelligence and machine learning come into play.
+
+AI and machine learning are at the heart of Smart Parking Management Systems, driving efficiency and improving user experience. These technologies work alongside IoT, computer vision, and deep learning to create seamless parking solutions.
+
+One key application is real time vehicle detection. Achieved through ground based sensors, radar systems, and camera based solutions that  work together to monitor parking availability. Advanced camera systems even integrate automatic license plate recognition, using computer vision to predict available spaces and detect parking violations instantly. This helps authorities manage unauthorized parking and improve overall compliance.
+
+AI also enhances the user experience through mobile parking guidance systems. These digital platforms provide real time updates, helping drivers navigate to available spaces with ease. Some solutions even integrate dynamic pricing, allowing cities to adjust parking fees based on the current demand. Additionally, users can reserve spots, pay digitally, and access detailed parking information, all from their smartphones. Making parking more convenient and efficient for everyone.
+
+Now, let’s explore some real world applications of these technologies.
+
+One notable company in this space is Parkeagle, an Amsterdam based startup specializing in smart parking solutions. Their flagship product, StreetEagle, utilizes compact wireless sensors to collect real time data on traffic metrics. This includes vehicle counting, traffic flow analysis, speed monitoring, and parking occupancy detection. By providing municipalities and infrastructure companies with this data, Parkeagle helps optimize urban parking resources and improved mobility.
+
+Another leading company is Urbiotica, a Spanish firm that has developed U Spot VISIO, an AI powered system for monitoring vehicle occupancy in parking spaces. This solution processes real time images from high resolution cameras, achieving over 99% detection accuracy. Designed for outdoor parking lots, a single camera can monitor up to 50 spaces under ideal conditions.
+
+Beyond individual companies, large scale projects have also contributed to the development of Smart Parking Management Systems. One example is Park4SUMP, an European Union funded Horizon 2020 project that ran from 2018 to 2022. This initiative aimed to integrate parking management into SUMPs across 16 European cities. Leading cities like Vitoria Gasteiz, Rotterdam, and Krakow shared best practices with cities such as Lisbon, Sofia, and Tallinn, helping them implement innovative parking strategies. The project’s goal was to reclaim 10% of public space used for parking and allocate at least 10% of parking revenue toward sustainable transport and active mobility initiatives.
+
+Other past European Union funded projects of note, such as FastPrk 2 and QPARK, have also explored ways to integrate smart parking into urban infrastructure.
+
+In conclusion, Smart Parking Management Systems have the potential to transform urban mobility by making parking more efficient, reducing congestion, and promoting sustainability. Throughout this module, we’ve explored the challenges of urban parking, the role of AI and machine learning in optimizing these systems, and real world examples of their deployment.
+
+I hope this session has provided you valuable insights on smart parking solutions aiming to shape more efficient and sustainable cities. Thanks for joining me, and I’ll see you in the next lesson.

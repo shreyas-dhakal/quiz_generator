@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_09",
+  "title": "Fundamentals of Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the focus of the first lesson in this module?",
+      "options": [
+        "Sustainable Urban Mobility Plans and urban sprawl",
+        "Active mobility and micro mobility",
+        "Mobility as a Service and smart cities",
+        "Data sources for urban mobility analysis"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The first lesson focuses on the foundations of urban planning, including Sustainable Urban Mobility Plans and urban sprawl."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which concept is explored in the second lesson?",
+      "options": [
+        "Urban digital twins",
+        "Active mobility and micro mobility",
+        "SUMI KPI framework",
+        "Densification and infill development"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The second lesson looks at active mobility and micro mobility, discussing walking, cycling, and first and last mile connections."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the primary focus of the fourth lesson?",
+      "options": [
+        "Urban digital twins",
+        "Key Indicators for Measuring Mobility Performance",
+        "Sustainable Urban Mobility Plans",
+        "Data sources for urban mobility analysis"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The fourth lesson focuses on measuring mobility performance using key indicators, specifically the SUMI KPI framework."
+    }
+  ]
+}

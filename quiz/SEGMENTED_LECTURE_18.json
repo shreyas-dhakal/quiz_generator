@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_18",
+  "title": "Demand Forecasting in Shared Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is a major advantage of shared mobility services in urban areas?",
+      "options": [
+        "Increased vehicle ownership",
+        "Reduced congestion and parking space needs",
+        "Higher emissions from vehicle production",
+        "Decreased public transport usage"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Shared mobility services reduce the number of vehicles on the road, which decreases congestion and the need for parking spaces."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do AI-driven models improve demand forecasting in shared mobility?",
+      "options": [
+        "By using only historical data",
+        "By ignoring real-time changes in travel behavior",
+        "By leveraging vast amounts of data for precise predictions",
+        "By focusing solely on single mode transport"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "AI-driven models use vast amounts of data to predict demand more precisely, learning from real-time changes in travel behavior."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which project aims to integrate ride sharing with public transportation?",
+      "options": [
+        "MOMENTUM",
+        "RIDE2RAIL",
+        "Shotl",
+        "Karos Mobility"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "RIDE2RAIL aims to integrate ride sharing with public transportation by providing real-time travel comparisons."
+    }
+  ]
+}

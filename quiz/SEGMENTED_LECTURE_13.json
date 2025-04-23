@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_13",
+  "title": "Measuring Mobility Performance: Key Indicators",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary purpose of monitoring and evaluation in Sustainable Urban Mobility Plans?",
+      "options": [
+        "To ensure compliance with international standards",
+        "To track progress and make necessary adjustments",
+        "To increase public transport fares",
+        "To reduce the number of transport modes"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Monitoring and evaluation help cities track their progress and make necessary adjustments to ensure they are moving in the right direction."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which of the following is NOT a core indicator in the SUMI framework?",
+      "options": [
+        "Affordability of public transport",
+        "Noise hindrance",
+        "User satisfaction",
+        "Average commuting times"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "Average commuting times are part of the non-core indicators, while affordability, noise hindrance, and user satisfaction are core indicators in the SUMI framework."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What does the modal split indicator measure?",
+      "options": [
+        "The number of public transport vehicles",
+        "The distribution of transport modes used in the city",
+        "The cost of maintaining transport infrastructure",
+        "The energy efficiency of transport modes"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The modal split indicator breaks down how different transport modes are used across the city, including passenger and freight transport."
+    }
+  ]
+}

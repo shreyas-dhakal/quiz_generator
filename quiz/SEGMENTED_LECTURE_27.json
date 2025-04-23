@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_27",
+  "title": "AI Applications in Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What was the focus of the lesson on Demand Forecasting in Shared Mobility Services?",
+      "options": [
+        "Optimizing fleet management and responding to real-time user demand",
+        "Improving cyclist safety through real-time risk detection",
+        "Enhancing urban planning with digital replicas",
+        "Enabling aerial mobility solutions"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The lesson on Demand Forecasting in Shared Mobility Services examined how AI can optimize fleet management and respond to real-time user demand."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How does AI contribute to Smart Traffic Light Systems?",
+      "options": [
+        "By improving deliveries and solving logistics challenges",
+        "By reducing congestion and improving urban traffic flow",
+        "By enabling vehicles to communicate and operate independently",
+        "By enhancing cyclist safety through real-time risk detection"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI is used in Smart Traffic Light Systems to reduce congestion and improve urban traffic flow."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the role of Urban Digital Twins in urban mobility?",
+      "options": [
+        "Improving the reliability and efficiency of transit systems",
+        "Transforming urban planning and mobility through data integration and simulation",
+        "Making urban parking more efficient and accessible",
+        "Supporting smarter and more coordinated transport systems"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Urban Digital Twins are digital replicas of cities that transform urban planning and mobility through data integration and simulation."
+    }
+  ]
+}

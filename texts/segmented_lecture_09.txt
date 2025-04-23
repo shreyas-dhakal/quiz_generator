@@ -1,0 +1,17 @@
+Hello and welcome to this module on Fundamentals of Urban Mobility.
+
+In this module, we will dive into the essentials of urban mobility and planning, exploring the big ideas that shape how cities move. You will discover the key concepts that guide transportation design and learn how cities measure the success of their mobility strategies. We will also explore the powerful data sources that help planners analyze and improve urban mobility.
+
+We begin with three lessons under Key Concepts in Urban Mobility and Planning.
+
+In the first lesson, we break down the foundations of urban planning that influence how people move through cities. You will learn about Sustainable Urban Mobility Plans, urban sprawl, and how cities grow through densification and infill development.
+
+Next, we turn our attention to movement on a more personal scale. The second lesson looks at active mobility and micro mobility, uncovering the benefits and challenges of walking, cycling, and solving the tricky puzzle of first and last mile connections.
+
+In the third lesson, we look ahead to what is coming next. We explore exciting new trends like Mobility as a Service, urban digital twins, and the evolution of smart cities.
+
+In the fourth lesson, we will delve into the lesson Measuring Mobility Performance: Key Indicators, where we will identify the primary metrics for evaluating Sustainable Urban Mobility Plans and urban mobility performance, focusing on the SUMI KPI framework.
+
+To wrap things up, in the final lesson, Data Sources in Urban Mobility, we will explore the diverse data sources ranging from mobile networks to sensors that power effective urban mobility analysis.
+
+So, let’s get started.

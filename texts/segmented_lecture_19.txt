@@ -1,0 +1,37 @@
+Welcome to the module of use case Preventive Maintenance in Public Transport In this module we will learn about: What Preventive Maintenance consists of. What urban challenges shared mobility services may help address. How AI and ML is being used in preventive maintenance in public transport. Current project deployment in various urban settings. Let’s start.
+
+Public transport and infrastructure,like roads, bridges, and tunnels, are the backbone of a city. But with constant use comes inevitable wear and tear. Over time, this can lead to system failures that disrupt daily life. The same goes for public transport vehicles, which are on the move every day and need regular check ups to stay safe and efficient.
+
+To manage this, traditionally there are three main maintenance strategies:
+
+First, there’s reactive maintenance that is based on waiting for something to break and then fixing it. While this might seem cheaper at first, it often leads to emergency repairs and unexpected delays that can cost more in the long run.
+
+Then we have preventive maintenance. It is a scheduled approach where vehicles and equipment are checked at regular intervals, whether they show problems or not. It helps reduce failures, but it’s not perfect. Sometimes it results in unnecessary work, and small signs of trouble might still go unnoticed.
+
+The game changer is predictive maintenance. This strategy uses data, AI, and IoT devices to spot issues before they turn into real problems. Think of it like a smart early warning system: sensors collect data, machine learning algorithms analyze it, and the system alerts you to a potential failure while there’s still time to act.
+
+So, what issues could preventive maintenance aim to tackle? There are three main areas were it take make a difference:
+
+First, it helps prevent service disruptions. Public transport disruptions are one of the main reasons passengers lose trust in the system. Delays can negatively impact job accessibility and daily commutes, making people turn to private vehicles, which worsens congestion and emissions.
+
+Second, it enhances safety and reliability. Detecting wear and tear early prevents mechanical failures that could endanger passengers. For example, identifying worn out brake pads before they fail ensures vehicles remain safe and compliant with regulations.
+
+Lastly, it reduces maintenance costs. Catching small issues early prevents more extensive damage, reducing both repair costs and vehicle downtime. Research shows that predictive maintenance can lower costs by up to 40% and extend the lifespan of public transport infrastructure by 25%.
+
+So, how are AI and ML used in Preventive Maintenance?
+
+Predictive maintenance relies heavily on AI and machine learning and IoT, supported by networks of sensors embedded in vehicles and infrastructure. These tools constantly monitor performance, flagging when something seems off.
+
+Different machine learning methods come into play here. Supervised learning uses historical data to predict when a failure might happen, giving operators time to respond. Unsupervised learning helps detect unusual patterns that don’t match normal behavior, like a bus engine vibrating differently, even without a predefined idea of what’s wrong. It’s like giving the system a gut feeling. Reinforcement learning takes it a step further, adjusting strategies in real time based on feedback and improving as it goes.
+
+In logistics and fleet operations, this kind of AI support is already proving useful. It helps track vehicle health, optimize maintenance schedules, and even prevent failures before they disrupt service. Some AI models can detect overheating brakes or unusual vibrations, signs of deeper issues. Beyond vehicles, AI also plays a role in monitoring infrastructure. For example to scan bridges and tunnels for signs of weakness or damage. These systems are highly accurate, though they do need a lot of data and computing power to train.
+
+Let’s now explore some real world applications of preventive maintenance:
+
+Across Europe, several projects are already bringing predictive maintenance to life. In Bergamo, the CE4CE project is using AI and sensors to monitor trams in real time, helping detect issues like brake or HVAC failures before they cause disruptions. This proactive approach is improving reliability, cutting costs, and supporting sustainability goals.
+
+In Portugal, Stratio’s AI based system is being used by TST to monitor a fleet of 339 buses across the Lisbon Metropolitan Area. Launched in 2022, this project is part of a broader effort to modernize public transport with smarter, greener technology. Meanwhile, in the railway sector, the DAYDREAMS initiative, backed by Europe’s Rail, is developing advanced AI tools to optimize maintenance across entire networks. Other innovators include KONUX, aiomatic, and MIPU which are also helping shape the future of predictive maintenance across the European Union.
+
+In conclusion, preventive maintenance in public transport plays a crucial role in the reliability of the future of urban transportation. Throughout this module, we explored the different types of maintenance, the issues they may address, and the role of AI and machine learning in preventive maintenance and an overview at real world deployment projects.
+
+I hope this session has provided you with valuable insights into the importance of preventive maintenance and the technologies driving its growth. Thanks for joining me, and I’ll see you in the next lesson.

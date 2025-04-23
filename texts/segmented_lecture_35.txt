@@ -1,0 +1,16 @@
+Over the past modules, we explored how artificial intelligence and machine learning are transforming the way we move within cities. We began with an overview of current urban mobility trends, looking at how transport systems are evolving in response to climate goals and emerging technologies.
+
+We then delved into the foundations of urban mobility and planning. This included key concepts such as how movement is organized in cities, how success is measured, and how data can be used to guide better decision making for more sustainable and efficient mobility.
+
+In the third part of the course, we examined real life examples from across the European Union. These projects highlighted the practical applications of AI and machine learning, showcasing how they are used to solve specific mobility challenges and improve services on the ground.
+
+Finally, we explored the challenges and ethical issues related to the use of AI in mobility. We discussed technical limitations, regulatory frameworks, and the importance of fairness, transparency, and accountability in the development and deployment of intelligent mobility solutions.
+
+By reaching this stage, you now have the knowledge to better understand the role of AI in urban mobility and to critically engage with the opportunities and limitations it presents. We hope this course has not only informed you but also inspired you to continue learning and contributing to the future of smarter and more sustainable cities.
+
+You can deepen your knowledge on the topics we have covered, especially those that caught your attention, by exploring the sources listed in the references and complementary materials. There is also a wealth of information available beyond this course. Urban mobility is in a constant state of innovation, with new developments emerging regularly. Stay informed by following the news, specialized media, scientific journals, or reports and publications from European institutions.
+
+This course is just one step. Now it is up to you to keep climbing the stairs.
+
+Thank you for joining us on this journey.
+ You are now ready for the final exam to test your knowledge. Good luck.

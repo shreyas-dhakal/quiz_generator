@@ -1,0 +1,37 @@
+Hello, and welcome to this module on Connected Autonomous Vehicles in Smart Cities. I'm excited to have you here as we explore how connected autonomous vehicles CAVs integrate into smart cities, the problems they aim to solve, how AI and machine learning power them and real world deployments in the European Union. So, let’s get started.
+
+Smart cities lead urban innovation, focusing on sustainability, resource management, and quality of life. At the heart of this are intelligent systems powered by AI and the Internet of Things.This is where CAVs come in: as a vehicle concept that merges two distinct technologies:
+
+Connected Vehicles: Connected Vehicles can communicate wirelessly with other vehicles, traffic signals, and even pedestrians and cyclists. But, they cannot make independent decisions.
+
+Autonomous Vehicles: These can navigate and make decisions without human intervention. However, rather than being a simple on or off concept, automation is classified into six levels by SAE International. These levels are based on how much driver involvement is required, ranging from no automation to full autonomy.
+
+So what issues could CAVs aim to tackle in the context of the European Union?
+
+Starting with the health and safety front, CAVs aim to reduce road accidents by removing human error. Human mistakes cause about 95% of all road accidents in the European Union. In 2017, 25,300 people died in traffic accidents across the Union. Additionally, prolonged exposure to road traffic noise negatively impacts over 18 million people, with 5 million suffering from severe sleep deprivation.
+
+From an economic perspective, congestion and inefficiencies in transport systems cost European Union member states around euros110 billion per year. Additionally, air pollution related health costs reach several hundred billion euros annually. CAVs could significantly reduce these costs through optimized traffic flow and cleaner transport.
+
+Regarding sustainability, automation and electrification of road transport play a crucial role in meeting European environmental targets. The European Green Deal and the Fit for 55 package set ambitious goals, including reducing average emissions by 55% for new passenger cars and 50% for new light commercial vehicles by 2030. The ultimate aim is full decarbonization of road transport.
+
+So, how does AI and machine learning come into play?
+
+CAVs aren’t just vehicles, they are also intelligent agents operating within a vast network. They rely on AI driven systems to process vast amounts of real time data collected from IoT sensors embedded in urban infrastructure. These sensors collect data on traffic, vehicle locations, and the environment. This allows AI to make quick, precise decisions
+
+Using AI, CAVs can: perceive their surroundings, make data driven decisions, navigate independently, communicate with other vehicles, infrastructure, and pedestrians, enable cooperative driving strategies like platooning where vehicles travel in synchronized formations to improve efficiency.
+
+To achieve full autonomy, CAVs integrate multiple advanced technologies. LIDAR provides high precision mapping, RADAR detects object speed and distance, and ultrasonic sensors handle close range obstacle detection. Real time video feeds come from onboard cameras, while GPS and Inertial Measurement Units ensure accurate positioning. The brain behind it all is a powerful central processing unit, which processes data from all sensors using AI algorithms.
+
+Now, let’s look at some real world applications.
+
+One notable autonomous shuttle is the EZ10, developed by the French company EasyMile. This Level 4 autonomous electric shuttle is deployed in multiple European cities, offering a public transport solution that seamlessly integrates with existing transit networks. It can carry up to 12 passengers, operates in mixed traffic environments, and doesn’t require any special infrastructure. The EZ10 can operate on fixed routes or responding to on demand ride requests via a mobile app.
+
+It is built with safety in mind and includes smart sensors to detect obstacles. It also has features that make it easier to use for everyone, like a ramp for wheelchairs.
+
+Other autonomous shuttle projects include: Autonom Shuttle Evo by Navya France, Aurrigo Auto Shuttle, part of the LAPT project, deployed in Ricany Czech Republic, Hasselt Belgium, Kongsberg Norway, and Helmond Netherlands.
+
+Private vehicle automation is also progressing. French company Valeo, an investor in Navya, conducted one of the first Level 4 urban driving tests in Paris, marking a significant step toward real world autonomous driving.
+
+In conclusion, Connected Autonomous Vehicles can revolutionize transportation, making it safer, more efficient, and more sustainable. Throughout this module, we explored how CAVs integrate into smart cities, the problems they aim to solve within the European Union, how AI and ML power them and current deployment projects.
+
+I hope this session has provided you with valuable insights into the future of mobility and the role CAVs will play in shaping smart cities. Thanks for joining me, and I’ll see you in the next lesson.

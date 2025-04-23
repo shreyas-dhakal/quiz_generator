@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_12",
+  "title": "Key Concepts in Urban Mobility and Planning",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary goal of Mobility as a Service (MaaS)?",
+      "options": [
+        "To integrate multiple mobility services into a single platform",
+        "To replace public transportation with private car usage",
+        "To develop new forms of transportation technology",
+        "To eliminate the need for transportation altogether"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "MaaS integrates multiple mobility services into a single platform to make travel more efficient and sustainable."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do Urban Digital Twins assist in urban mobility planning?",
+      "options": [
+        "By creating static models of city infrastructure",
+        "By simulating city infrastructure and transport networks",
+        "By eliminating the need for public transport",
+        "By focusing solely on pedestrian pathways"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Urban Digital Twins simulate city infrastructure and transport networks to help planners address urban challenges."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which technologies are essential for the development of Smart Cities?",
+      "options": [
+        "Blockchain and cryptocurrency",
+        "Virtual reality and augmented reality",
+        "Internet of Things, 5G, cloud computing, and AI",
+        "Nuclear energy and fossil fuels"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Smart Cities rely on the Internet of Things, 5G communication networks, cloud computing, and artificial intelligence to optimize urban systems."
+    }
+  ]
+}

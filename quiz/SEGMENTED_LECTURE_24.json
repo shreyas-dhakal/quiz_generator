@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_24",
+  "title": "AI and Machine Learning in Cycling Safety",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What percentage of road fatalities in the European Union are cyclists?",
+      "options": [
+        "5%",
+        "9%",
+        "15%",
+        "20%"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Cyclists account for 9% of all road fatalities in the European Union, highlighting the need for improved safety measures."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do AI and machine learning contribute to cycling safety?",
+      "options": [
+        "By providing entertainment features for cyclists",
+        "By monitoring cyclist behavior and preventing accidents",
+        "By increasing the speed of bicycles",
+        "By reducing the cost of bicycles"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI and machine learning enhance cycling safety by monitoring cyclist behavior and preventing accidents through real-time data exchange and automated responses."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the purpose of the Lane Patrol tool?",
+      "options": [
+        "To provide navigation for cyclists",
+        "To automate the assessment of cycling infrastructure",
+        "To increase cycling speed",
+        "To offer cycling training programs"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Lane Patrol uses computer vision and deep learning to automate the assessment of cycling infrastructure, improving safety by detecting hazards and classifying lane types."
+    }
+  ]
+}

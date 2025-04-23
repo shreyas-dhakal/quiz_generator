@@ -1,0 +1,54 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_32",
+  "title": "Ethical and Social Impacts of AI in Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is a major ethical issue associated with autonomous vehicles in urban mobility?",
+      "options": [
+        "Decision making in life threatening situations",
+        "Cost of manufacturing autonomous vehicles",
+        "Speed limitations in urban areas",
+        "Design aesthetics of autonomous vehicles"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "A major ethical issue is decision making in life threatening situations, such as prioritizing safety between passengers and pedestrians."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How can algorithmic bias affect autonomous vehicles?",
+      "options": [
+        "By causing unequal safety outcomes for different groups",
+        "By increasing the speed of data processing",
+        "By improving battery efficiency",
+        "By enhancing the vehicle's design"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Algorithmic bias can lead to unequal safety outcomes for different groups due to biased data or design."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is a potential consequence of job loss due to automation in urban mobility?",
+      "options": [
+        "Increased competition in the labor market",
+        "Higher wages for remaining jobs",
+        "More job opportunities in the tech sector",
+        "Decreased demand for public transportation"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Job loss due to automation could increase competition in the labor market, as displaced workers may have to take low skilled jobs."
+    },
+    {
+      "question_id": "Q4",
+      "question": "What environmental impact is associated with AI-driven data centers?",
+      "options": [
+        "High carbon emissions from nonrenewable energy sources",
+        "Increased biodiversity in urban areas",
+        "Reduction in urban noise pollution",
+        "Decrease in water consumption"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "AI-driven data centers require a lot of energy, leading to high carbon emissions when the energy comes from nonrenewable sources."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_30",
+  "title": "Technical Challenges in AI Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is a major challenge for AI systems in urban mobility related to data?",
+      "options": [
+        "High quality data availability",
+        "Low cost of data storage",
+        "Poor data quality",
+        "Excessive data redundancy"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "AI systems require high quality data to function effectively, but poor data quality is a significant challenge, as mentioned in the transcript."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Why is cybersecurity a concern for smart transportation systems?",
+      "options": [
+        "They have advanced encryption methods",
+        "They are immune to cyberattacks",
+        "They lack basic encryption for communication",
+        "They do not rely on data exchange"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The transcript highlights that many smart traffic systems lack basic encryption, making them vulnerable to cyberattacks."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is a financial challenge mentioned for implementing AI in transportation?",
+      "options": [
+        "Low investment costs",
+        "High costs of sensors and infrastructure",
+        "Minimal need for cybersecurity safeguards",
+        "Inexpensive AI model training"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Implementing AI and IoT infrastructure involves high costs, including sensors, communication networks, and cybersecurity, as discussed in the transcript."
+    },
+    {
+      "question_id": "Q4",
+      "question": "What is a challenge related to AI algorithms in real-world scenarios?",
+      "options": [
+        "They perform consistently in all conditions",
+        "They are always reliable and robust",
+        "They struggle with unpredictable real-world situations",
+        "They require minimal testing"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The transcript mentions that AI algorithms often struggle in real-world situations where conditions can change unpredictably."
+    },
+    {
+      "question_id": "Q5",
+      "question": "How do AI applications impact energy consumption?",
+      "options": [
+        "They require minimal energy",
+        "They consume substantial energy for real-time processing",
+        "They have no impact on energy needs",
+        "They reduce overall energy consumption"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI applications, especially those requiring real-time data processing, consume substantial computing power and energy, as noted in the transcript."
+    }
+  ]
+}

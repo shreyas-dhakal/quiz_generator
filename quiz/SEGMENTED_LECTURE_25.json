@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_25",
+  "title": "AI and Digital Twins in Urban Management",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is one of the primary urban challenges that Digital Twins aim to address?",
+      "options": [
+        "Improving public transportation schedules",
+        "Enhancing air quality management",
+        "Increasing green spaces in cities",
+        "Developing new housing projects"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Digital Twins can combine various data sources to address air quality issues by modeling pollution spread and testing solutions."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do AI and machine learning contribute to the functionality of Urban Digital Twins?",
+      "options": [
+        "By creating new urban policies",
+        "By generating synthetic data for simulations",
+        "By designing new city infrastructure",
+        "By enforcing traffic laws"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI uses techniques like Generative Adversarial Networks to create realistic synthetic data for simulating rare scenarios."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which project focuses on making cities more inclusive for the elderly?",
+      "options": [
+        "NexTCity",
+        "ACUMEN",
+        "URBANAGE",
+        "LEAD"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "URBANAGE is a European initiative that aims to make cities more inclusive, particularly for the aging population."
+    }
+  ]
+}

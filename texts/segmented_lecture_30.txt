@@ -1,0 +1,27 @@
+Hello, and welcome to this module on Technical Challenges and Limitations in AI for Mobility. I'm excited to have you here as we explore the technical challenges that affect AI mobility applications. So, let’s get started.
+
+AI has huge potential to improve urban mobility. But there are still several technical challenges in the way. So, what are they? These include poor data quality, cybersecurity risks, and high costs of investment. We also need AI systems that are reliable, scalable, and robust enough to handle real world use. On top of that, AI technologies require a lot of computing power and energy.
+
+Let us begin with data quality. For AI systems to perform effectively they require access to high quality data. Take smart traffic lights as an example. What if bad weather, accidents, or even vandalism affect how the sensors work? For instance, rain can cause induction loop sensors to give wrong readings. Fog or glare from sunlight may block video cameras. These problems can compromise traffic control as it doesn't have the data to make proper decisions and mistakes might happen.
+
+For example, if the system doesn’t detect an approaching ambulance, it might fail to alert other drivers. This can delay emergency response and put lives at risk.
+
+Now let’s look at cybersecurity, which is a major concern, especially in smart transportation systems. Many existing smart traffic light systems lack basic encryption for their firmware or communication channels. This makes them easy targets for cyberattacks. If hackers take control, It could disrupt traffic systems and pose safety issues. Connected autonomous vehicles face similar risks. These vehicles rely on constant data exchange and sensor input. If unauthorized access occurs they might take control of a vehicle.
+
+Endangering not only the passengers but also others on the road.
+
+Next is cost. Rolling out AI and IoT infrastructure doesn’t come cheap. The cost of implementing sensors, communication networks, data management platforms, cybersecurity safeguards, and AI model training is substantial. For large scale transportation networks covering multiple cities or entire regions, these investments may reach hundreds of millions or even billions of dollars. Furthermore, to monitor traffic, vehicle movements, and passenger flow, a dense network of sensors is necessary. These systems also rely on wireless connectivity, which incurs further expenses.
+
+In addition, the real time data generated must be processed and stored, requiring advanced computing capabilities. Compliance with strict privacy and cybersecurity regulations further increases the financial burden. These high costs make it hard for cities with small budgets to adopt AI systems like smart traffic lights.
+
+Now let’s address the reliability, robustness, and scalability of AI algorithms. Machine learning works well in tests, but it often struggles in real world situations where things can change and be hard to predict. For example, autonomous vehicles must be rigorously tested to ensure safe and reliable performance in a wide range of situations, including adverse weather conditions and rare but critical edge cases.
+
+Similarly, smart traffic systems also face complex situations, including occluded vehicles, diverse pedestrian movements, and varying object types. These conditions require advanced computer vision capabilities and significant algorithmic sophistication. In ride demand forecasting, fluctuations due to weather, special events, or seasonal changes further complicate the accuracy of traditional predictive models. Addressing these challenges demands more adaptive and resilient AI methods capable of handling real world complexity.
+
+Finally, let’s talk about computational resources and energy consumption. AI applications requiring real time data processing and continuous sensor input consume substantial computing power and energy. Taking as an example, CAVs. These vehicles must process vast quantities of data to make decisions, requiring high performance computing systems that are energy intensive.
+
+What about AI model training? That is another energy intensive task. The process is often repetitive and carried out independently by each vehicle, leading to high energy consumption. To reduce this, approaches like collaborative intelligence and shared learning networks are being explored to minimize redundancy and save energy. Smart traffic systems face similar issues, as they need constant energy to run sensors, communication systems, and real time controls. Over time, this adds to the city's energy needs and creates challenges for sustainability.
+
+In conclusion, while AI is already making a meaningful contribution to urban mobility and infrastructure, several technical challenges continue to limit its full potential. In this module, we explored key issues such as data privacy, cybersecurity, investment costs, the reliability and scalability of AI algorithms, and the computational and energy demands of AI systems.
+
+I hope this session has provided you with valuable insights into the technical challenges and limitations regarding AI driven mobility. Thanks for joining me, and I’ll see you in the next lesson.

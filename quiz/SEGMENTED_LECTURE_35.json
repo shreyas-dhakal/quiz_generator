@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_35",
+  "title": "AI's Impact on Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What was the initial focus of the course on AI and urban mobility?",
+      "options": [
+        "The ethical issues related to AI",
+        "Current urban mobility trends",
+        "Technical limitations of AI",
+        "Real life examples from the EU"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The course began with an overview of current urban mobility trends and how transport systems are evolving."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which aspect of AI in mobility was discussed in the final part of the course?",
+      "options": [
+        "Foundations of urban mobility",
+        "Practical applications in the EU",
+        "Challenges and ethical issues",
+        "Overview of emerging technologies"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The final part of the course explored the challenges and ethical issues related to the use of AI in mobility."
+    },
+    {
+      "question_id": "Q3",
+      "question": "How can learners deepen their knowledge on AI and urban mobility after the course?",
+      "options": [
+        "By taking more online courses",
+        "By exploring references and complementary materials",
+        "By attending urban planning conferences",
+        "By developing their own AI applications"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Learners are encouraged to explore the sources listed in the references and complementary materials to deepen their knowledge."
+    }
+  ]
+}

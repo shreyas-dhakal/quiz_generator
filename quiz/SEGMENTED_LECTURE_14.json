@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_14",
+  "title": "Exploring Data Sources in Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is a key benefit of using mobile network data in mobility research?",
+      "options": [
+        "It provides real-time traffic updates.",
+        "It offers a continuous view of movement patterns.",
+        "It is the most accurate form of location data.",
+        "It is collected specifically for research purposes."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Mobile network data offers a more continuous view of how people move, especially with data from internet use and other network activities."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do smartphone applications contribute to mobility data collection?",
+      "options": [
+        "They only collect data when users post updates.",
+        "They provide data only for navigation purposes.",
+        "They automatically collect GPS data across various apps.",
+        "They are less accurate than mobile network data."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Smartphone applications automatically collect GPS data, and companies can aggregate this data across different apps to study mobility patterns."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What challenge is associated with using transport and sensor data in mobility research?",
+      "options": [
+        "The data is always complete and accurate.",
+        "The data is collected specifically for research.",
+        "The data often includes gaps or inaccuracies.",
+        "The data is only useful for studying individual trips."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Transport and sensor data often include gaps or inaccuracies, requiring careful cleaning and preprocessing before analysis."
+    }
+  ]
+}

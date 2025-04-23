@@ -1,0 +1,23 @@
+Throughout this module, we looked at application examples showing how AI and machine learning address mobility challenges in the European Union.
+
+We started with the lesson on Demand Forecasting in Shared Mobility Services,. Here we examined how AI can optimize fleet management and respond to real time user demand.
+
+Next, we explored Preventive Maintenance in Public Transport, looking at predictive techniques designed to improve the reliability and efficiency of transit systems.
+
+In the third lesson, Smart Traffic Light Systems, we saw how AI is being used to reduce congestion and improve urban traffic flow. This was followed by Smart Parking Management, which focused on making urban parking more efficient and accessible.
+
+Then came Urban Freight and Last Mile Delivery Optimization, where we explored how AI is improving deliveries and solving logistics challenges in cities.
+
+This led to Connected Autonomous Vehicles. Here we looked at how AI enables vehicles to communicate and operate independently, supporting smarter and more coordinated trans
+
+port systems.
+
+In AI Cycling Safety Applications, we explored how technology can enhance cyclist safety through real time risk detection.
+
+In the lesson Urban Digital Twins, we examined how digital replicas of cities are transforming urban planning and mobility through data integration and simulation.
+
+We finished with AI and Machine Learning in Urban Air Mobility. Here we looked at how emerging technologies are enabling aerial mobility solutions.
+
+By exploring these use cases, you’ve gained a broad understanding of how AI and machine learning are being applied in real world scenarios across various aspects of urban mobility. In the next module, Challenges, Issues and Impacts of AI Integration in Urban Mobility  we’ll explore the main challenges and limitations of AI driven mobility across key areas: technical, regulatory, ethical, social and environmental.
+
+Thank you for joining us, and we look forward to seeing you in the next module.

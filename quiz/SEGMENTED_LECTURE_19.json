@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_19",
+  "title": "Preventive Maintenance in Public Transport",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the main advantage of predictive maintenance over preventive maintenance?",
+      "options": [
+        "It is cheaper in the short term.",
+        "It uses AI and IoT to predict failures before they occur.",
+        "It requires less data and computing power.",
+        "It eliminates the need for regular check-ups."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Predictive maintenance uses data, AI, and IoT devices to spot issues before they become real problems, unlike preventive maintenance which is scheduled and may miss early signs of trouble."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How does unsupervised learning contribute to predictive maintenance?",
+      "options": [
+        "It uses historical data to predict failures.",
+        "It detects unusual patterns without predefined ideas of issues.",
+        "It adjusts strategies in real time based on feedback.",
+        "It monitors infrastructure for signs of weakness."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Unsupervised learning helps detect unusual patterns that don’t match normal behavior, even without a predefined idea of what’s wrong, which is useful in predictive maintenance."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which of the following is NOT a benefit of preventive maintenance in public transport?",
+      "options": [
+        "Preventing service disruptions.",
+        "Enhancing safety and reliability.",
+        "Reducing maintenance costs.",
+        "Eliminating the need for AI and ML."
+      ],
+      "correct_answer_index": 3,
+      "explanation": "Preventive maintenance benefits include preventing service disruptions, enhancing safety, and reducing costs, but it does not eliminate the need for AI and ML, which are crucial for predictive maintenance."
+    }
+  ]
+}

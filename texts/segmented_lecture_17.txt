@@ -1,0 +1,23 @@
+Hello, and welcome to this module on AI and ML Use Cases in  Urban Mobility.
+
+In this module, we’ll look at several real world examples of how AI is used in urban mobility across the European Union. We’ll explore the challenges these solutions aim to solve, how they use AI and machine learning, and the projects currently in progress.
+
+We start with the lesson Demand Forecasting in Shared Mobility Services. You’ll learn how AI helps manage shared fleets and better respond to user demand.
+
+Next is Preventive Maintenance in Public Transport. This lesson shows how predictive tools can keep buses, trains, and other public transport running smoothly and reliably.
+
+The third lesson is Smart Traffic Light Systems. We’ll see how AI driven traffic lights can ease congestion and improve traffic flow in busy cities.
+
+After that, in Smart Parking Management, we look at AI tools that help drivers find parking faster and reduce traffic caused by searching for a spot.
+
+In Urban Freight and Last Mile Delivery Optimization, we explore how AI and connected vehicles are improving deliveries and solving urban logistics challenges.
+
+Then, in Connected Autonomous Vehicles, we dive into how AI helps vehicles communicate and operate safely on their own, creating smarter, more coordinated transport systems.
+
+The next lesson, AI Cycling Safety Applications, focuses on how AI protects cyclists by detecting risks and improving safety in real time.
+
+We then move to Urban Digital Twins. This lesson explores how virtual models of cities are being used to test ideas, plan better infrastructure, and improve mobility systems.
+
+Finally, the last lesson is AI and Machine Learning in Urban Air Mobility. Here, we learn how these technologies are opening the skies to new transport options like autonomous drones, aerial traffic systems, and faster emergency responses.
+
+So, let’s get started.

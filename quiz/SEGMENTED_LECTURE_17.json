@@ -1,0 +1,54 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_17",
+  "title": "AI and ML Use Cases in Urban Mobility",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary focus of the Demand Forecasting in Shared Mobility Services lesson?",
+      "options": [
+        "Managing shared fleets and responding to user demand",
+        "Improving safety for cyclists",
+        "Optimizing last mile delivery",
+        "Developing virtual models of cities"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The lesson on Demand Forecasting in Shared Mobility Services focuses on how AI helps manage shared fleets and better respond to user demand."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do AI-driven Smart Traffic Light Systems benefit urban areas?",
+      "options": [
+        "By reducing the need for human traffic controllers",
+        "By easing congestion and improving traffic flow",
+        "By providing real-time parking availability",
+        "By enhancing communication between autonomous vehicles"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI-driven Smart Traffic Light Systems are designed to ease congestion and improve traffic flow in busy cities."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the role of AI in Urban Freight and Last Mile Delivery Optimization?",
+      "options": [
+        "To detect risks and improve cyclist safety",
+        "To manage shared mobility fleets",
+        "To improve deliveries and solve urban logistics challenges",
+        "To create virtual models of cities"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "In Urban Freight and Last Mile Delivery Optimization, AI is used to improve deliveries and solve urban logistics challenges."
+    },
+    {
+      "question_id": "Q4",
+      "question": "Which lesson discusses the use of AI in enhancing cycling safety?",
+      "options": [
+        "Smart Parking Management",
+        "AI Cycling Safety Applications",
+        "Connected Autonomous Vehicles",
+        "Urban Digital Twins"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The lesson on AI Cycling Safety Applications focuses on how AI protects cyclists by detecting risks and improving safety in real time."
+    }
+  ]
+}

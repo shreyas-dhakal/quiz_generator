@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_03",
+  "title": "Overview of Urban Mobility Trends",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary focus of the first module in the course?",
+      "options": [
+        "Exploring the history of urban development",
+        "Understanding current trends in urban mobility",
+        "Analyzing rural transportation systems",
+        "Studying ancient transportation methods"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The first module focuses on current trends in urban mobility, as stated in the introduction."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which topic is covered under 'Climate Goals and the Role of Transportation'?",
+      "options": [
+        "The history of climate change",
+        "The European Union's climate targets",
+        "The impact of agriculture on climate",
+        "The role of education in climate awareness"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The module discusses the European Union's climate targets and the role of transportation in achieving them."
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which technologies are mentioned as shaping urban mobility?",
+      "options": [
+        "Blockchain and virtual reality",
+        "IoT, big data, 5G, and cloud computing",
+        "Nuclear energy and robotics",
+        "Genetic engineering and AI"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The transcript mentions IoT, big data, 5G, and cloud computing as technologies revolutionizing urban mobility."
+    }
+  ]
+}

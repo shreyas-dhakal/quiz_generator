@@ -1,0 +1,37 @@
+Welcome to the module of use case Demand Forecasting in Shared Mobility Services In this module we will learn about: How demand forecast synergizes with shared mobility services. What urban challenges demand forecast in shared mobility services may help address. How AI and ML is being used in demand forecasting for shared mobility. Current project deployment in various urban settings. Let’s start.
+
+Shared mobility has become a key and eco friendly alternative to owning a private car. In this model, multiple users can access the same vehicle, either at the same time or at different times. To ensure a smooth and efficient experience, ride sourcing platforms need to match vehicle availability with passenger demand across different areas. This is where demand forecasting becomes essential.
+
+Earlier forecasting models relied on statistical techniques like Historical Average and ARIMA. While useful, these methods struggled with complex mobility patterns. Today, AI driven models leverage vast amounts of data to predict demand more precisely, learning from real time changes in travel behavior.
+
+Demand forecasting can be split into two types. Single mode models predict demand for just one type of transport. Cross modal models look at several types together, giving a more complete picture. For example, bike sharing demand is often linked to metro system usage, so cross modal models can enhance prediction accuracy by incorporating such correlations.
+
+So, what issues can demand forecast in shared mobility services help address, particularly in Europe? There are four key areas where they make a difference.
+
+Congestion and parking space reduction is a major advantage. Research shows that a single shared vehicle can replace multiple private cars, reducing traffic congestion and the need for parking spaces. This allows cities to reuse land for green spaces, pedestrian friendly areas, and public amenities.
+
+There’s also environmental benefits. By decreasing the number of vehicles on the road and encouraging electrification, shared mobility significantly reduces emissions, not just from vehicle use but also from production. This shift aligns with the European Green Deal’s targets.
+
+It also helps in the democratization of mobility. Removing financial barriers associated with vehicle ownership, making transportation more accessible and affordable. Users benefit from mobility services without the burdens of maintenance, insurance, and depreciation.
+
+Last mile connectivity is another key issue. Public transport often struggles to take passengers directly to their final destinations. Shared bikes and e scooters help bridge this gap. They offer flexible, short distance travel solutions thus reducing reliance on private vehicles.
+
+Now, let’s dive into the role of AI and machine learning in demand forecasting:
+
+Leveraging GPS information and AI algorithms it is possible to perform vehicle relocation and fleet management helping to redistribute shared vehicles more efficiently, ensuring they are available where demand is highest. This prevents service disruptions and financial losses due to fleet imbalances.
+
+On the other hand, dynamic pricing and incentives allow real time demand predictions to enable operators to adjust pricing dynamically, such as raising fares during peak demand periods or major city events like Lisbon’s Santos Populares.
+
+Another important AI use is in task assignment and route planning. This is particularly important in ride pooling services, where matching passengers with the right vehicle and optimizing the route is essential for efficiency.
+
+Let’s now explore some real world applications:
+
+One example is the MOMENTUM project from Civitas. This initiative developed advanced data analysis methods, transport models, and planning tools to assess the impact of emerging mobility solutions. Ranging from topics such as Mobility as a Service, Connected Automated Vehicles to Shared mobility services. MOMENTUM’s tools were tested in cities like Madrid, Regensburg, Leuven, and Thessaloniki to help local governments design better policies.
+
+Another example is RIDE2RAIL, which aims to integrate ride sharing with public transportation. By providing real time travel comparisons based on cost, time, and environmental impact, RIDE2RAIL promotes seamless multimodal transport.
+
+Other projects include Shotl, a mobility platform that optimizes on demand public transport services using dynamic routing, and Karos Mobility, an AI powered carpooling solution that suggests optimized commutes based on users’ mobility habits.
+
+In conclusion, shared mobility services and demand forecasting play a crucial role in shaping the future of urban transportation. Throughout this module, we explored the different types of shared mobility, the issues they may address, and the role of AI and machine learning in predicting demand and an overview at real world deployment projects.
+
+I hope this session has provided you with valuable insights into the evolution of shared mobility and the technologies driving its growth. Thanks for joining me, and I’ll see you in the next lesson.

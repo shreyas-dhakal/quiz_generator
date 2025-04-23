@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_22",
+  "title": "Urban Freight and Last Mile Delivery Optimization",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is one of the main challenges in urban logistics mentioned in the transcript?",
+      "options": [
+        "High cost of electric vehicles",
+        "Congestion in city streets",
+        "Lack of delivery personnel",
+        "Inadequate packaging materials"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The transcript highlights congestion as a major issue due to the high volume of delivery vehicles in narrow city streets."
+    },
+    {
+      "question_id": "Q2",
+      "question": "How do AI and machine learning contribute to route optimization?",
+      "options": [
+        "By predicting weather conditions weeks in advance",
+        "By analyzing real-time data and traffic patterns",
+        "By increasing the number of delivery vehicles",
+        "By reducing the size of delivery packages"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "AI and machine learning analyze real-time data and traffic patterns to dynamically adjust delivery routes, reducing delays and fuel consumption."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What is the purpose of the DELPHI project?",
+      "options": [
+        "To develop autonomous delivery drones",
+        "To integrate urban freight and passenger transport",
+        "To create a new type of delivery vehicle",
+        "To build larger centralized warehouses"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The DELPHI project aims to integrate urban freight and passenger transport through digital platforms to optimize route planning and reduce congestion."
+    }
+  ]
+}

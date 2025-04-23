@@ -1,0 +1,42 @@
+{
+  "transcript_id": "SEGMENTED_LECTURE_05",
+  "title": "Climate Goals and Transportation's Role",
+  "quizzes": [
+    {
+      "question_id": "Q1",
+      "question": "What is the primary aim of the European Green Deal?",
+      "options": [
+        "To achieve climate neutrality by 2050",
+        "To increase industrial production",
+        "To reduce transportation costs",
+        "To promote tourism in Europe"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The European Green Deal aims to achieve climate neutrality by 2050, meaning no net greenhouse gas emissions."
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which sector was the second largest contributor to global greenhouse gas emissions in 2019?",
+      "options": [
+        "Agriculture",
+        "Transportation",
+        "Manufacturing",
+        "Construction"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "In 2019, transportation was the second largest global contributor to greenhouse gas emissions, after electricity and heat production."
+    },
+    {
+      "question_id": "Q3",
+      "question": "What percentage of the transport sector's emissions in Europe is attributed to road transport?",
+      "options": [
+        "50%",
+        "60%",
+        "75%",
+        "90%"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Road transport contributes over 75% of the transport sector’s emissions in Europe."
+    }
+  ]
+}

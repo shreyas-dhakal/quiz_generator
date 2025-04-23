@@ -1,0 +1,17 @@
+Throughout this module, we’ve explored the main challenges and limitations facing AI driven mobility across technical, regulatory, and ethical dimensions.
+
+We began with the first lesson, Technical Challenges and Limitations in AI for Mobility.
+ In this lesson, we looked at key technical problems. These included poor data quality, cybersecurity risks, and the high cost of using AI.
+ We also talked about the need for AI systems to be reliable and strong. They must also be able to grow and handle the demands of power and energy use.
+
+Next came the second lesson, Regulatory and Privacy Issues in AI Driven Mobility.
+
+We talked about the importance of protecting personal data. We also looked at tricky questions, like who is responsible when AI makes a mistake.
+
+Finally, we had the third lesson, Ethical, Social, and Environmental Impacts of AI in Urban Mobility.
+
+We explored problems like bias in algorithms, fair access to technology, and the effects of AI on jobs and the environment.
+
+By understanding these multifaceted challenges, you’re better equipped to critically assess the challenges derived from AI integration and contribute to the development of responsible, equitable, and sustainable mobility solutions.
+
+This marks the final module of the course. I hope you’ve enjoyed the journey and gained insights that will help you critically assess the future of urban mobility.
